@@ -95,7 +95,6 @@ function finalJudge(yourPoints, cpuPoints){
         alert(msg + "CPUの完全勝利！");
     }else{
         alert(msg + "全くの引き分け！");
-        pooledPoints += 2;
     }
 }
 
